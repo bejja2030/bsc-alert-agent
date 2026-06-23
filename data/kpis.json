@@ -1,0 +1,81 @@
+{
+  "hospital": "Service Oncologie-Radiothérapie · GST TTA · Tanger, Maroc",
+  "period": "Juin 2026",
+  "vb_agent_id": "bsc-alert-agent-v1",
+  "chef_de_service": {
+    "name": "Chef de service AQP",
+    "phone": "+212600000000"
+  },
+  "kpis": [
+    {
+      "id": "C1",
+      "label": "Délai médian demande → 1ère consultation",
+      "unit": "jours",
+      "direction": "min",
+      "target": 7,
+      "warn_threshold": 10,
+      "alert_threshold": 14,
+      "current_value": 18,
+      "previous_value": 16,
+      "source": "Planning consultations",
+      "responsible": "Chef de service AQP",
+      "recommendation": "Activer le protocole de priorisation des consultations urgentes et contacter la coordination médicale."
+    },
+    {
+      "id": "F1",
+      "label": "Taux d'exécution budgétaire",
+      "unit": "%",
+      "direction": "max",
+      "target": 85,
+      "warn_threshold": 75,
+      "alert_threshold": 70,
+      "current_value": 82,
+      "previous_value": 83,
+      "source": "Comptabilité analytique",
+      "responsible": "DAF",
+      "recommendation": "Vérifier les bons de commande en attente et accélérer les validations budgétaires."
+    },
+    {
+      "id": "RS1",
+      "label": "Taux d'occupation du service",
+      "unit": "%",
+      "direction": "max",
+      "target": 80,
+      "warn_threshold": 70,
+      "alert_threshold": 65,
+      "current_value": 78,
+      "previous_value": 79,
+      "source": "SIAD / Activité",
+      "responsible": "Chef de service AQP",
+      "recommendation": "Analyser les causes de sous-occupation et optimiser la planification des séances."
+    },
+    {
+      "id": "PI1",
+      "label": "Conformité protocoles radiothérapie",
+      "unit": "%",
+      "direction": "max",
+      "target": 90,
+      "warn_threshold": 80,
+      "alert_threshold": 75,
+      "current_value": 88,
+      "previous_value": 87,
+      "source": "Audit qualité interne",
+      "responsible": "Resp. qualité",
+      "recommendation": "Programmer une session de rappel des protocoles avec les équipes soignantes."
+    },
+    {
+      "id": "C5",
+      "label": "Taux d'interruptions traitement (pannes)",
+      "unit": "%",
+      "direction": "min",
+      "target": 3,
+      "warn_threshold": 6,
+      "alert_threshold": 8,
+      "current_value": 2.1,
+      "previous_value": 2.3,
+      "source": "Registre maintenance",
+      "responsible": "Resp. technique",
+      "recommendation": "Vérifier le calendrier de maintenance préventive et l'état des pièces de rechange."
+    }
+  ]
+}
