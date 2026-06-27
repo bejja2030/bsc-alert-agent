@@ -1,6 +1,6 @@
 """
 bsc_monitor.py — BSC KPI Monitor & Alert Detection
-BSC Alert Agent · Ismail ERRAI · HPU Tanger · 2026
+BSC Alert Agent · Ismail Bejja · HPU Tanger · 2026
 
 skill: kpi-status-classifier (reusable)
 skill: alert-generator (reusable)
