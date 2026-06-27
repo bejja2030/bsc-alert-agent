@@ -12,7 +12,7 @@ Usage:
     python main.py --eval <id>  # Run eval on a past call session
 
 Voice AI Builder Challenge · DeepLearning.AI × Vocal Bridge · June 2026
-Author: Ismail ERRAI · Service Oncologie-Radiothérapie · GST TTA · Tanger, Maroc
+Author: Ismail Bejja · University Oncology Hospital · Morocco
 """
 
 import argparse
