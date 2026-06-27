@@ -5,7 +5,7 @@
 > Voice AI Builder Challenge · DeepLearning.AI × Vocal Bridge · June 2026  
 > **Author:** Ismail Bejja · Senior Nurse Manager, · University Oncology Hospital · Morocco 
 > **GitHub:** [bejja2030/bsc-alert-agent](https://github.com/bejja2030/bsc-alert-agent)
-🎥 **Demo video:** https://youtu.be/JBLal6dOyjc
+🎥 **Demo video:** https://youtu.be/gdI9NFJwxTE
 ---
 
 ## The Problem
