@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "description": "BSC performance monitoring agent for oncology-radiotherapy service. Tracks 5 critical KPIs: consultation delays, budget execution, service occupancy, protocol compliance, and equipment interruptions. Responds in French. Answers questions about current KPI values, trends, thresholds, and recommended corrective actions.",
+  "description": "BSC performance monitoring agent for · University Oncology Hospital. Tracks 5 critical KPIs: consultation delays, budget execution, service occupancy, protocol compliance, and equipment interruptions. Responds in French. Answers questions about current KPI values, trends, thresholds, and recommended corrective actions.",
   "verbatim": false,
   "language": "fr-MA",
-  "hospital": "Service Oncologie-Radiothérapie · GST TTA · Tanger, Maroc"
+  "hospital": "· University Oncology Hospital · Morocco"
 }
