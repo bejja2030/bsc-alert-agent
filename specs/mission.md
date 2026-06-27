@@ -1,10 +1,9 @@
 # BSC Alert Agent — Mission Spec
 ## Voice AI Builder Challenge · DeepLearning.AI × Vocal Bridge · June 2026
 
-**Author:** Ismail ERRAI
+**Author:** Ismail Bejja
 Nurse Manager · Quality & Performance Officer
-Oncology-Radiotherapy · GST TTA · Tanger, Morocco
-
+· University Oncology Hospital · Morocco
 ---
 
 ## THE MISSION
