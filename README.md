@@ -3,14 +3,14 @@
 **Stop watching the terminal. Teach your agent to call you when it matters.**
 
 > Voice AI Builder Challenge · DeepLearning.AI × Vocal Bridge · June 2026  
-> **Author:** Ismail Bejja · Senior Nurse Manager, Oncology-Radiotherapy · GST TTA · Tanger, Morocco  
+> **Author:** Ismail Bejja · Senior Nurse Manager, · University Oncology Hospital · Morocco 
 > **GitHub:** [bejja2030/bsc-alert-agent](https://github.com/bejja2030/bsc-alert-agent)
 🎥 **Demo video:** https://youtu.be/JBLal6dOyjc
 ---
 
 ## The Problem
 
-A *chef de service* in a public Moroccan oncology hospital cannot monitor BSC performance indicators while simultaneously managing clinical operations. When a critical indicator degrades — a patient consultation delay exceeding 14 days, a budget shortfall — the information sits in a spreadsheet until the monthly meeting.
+A departement head in a public Moroccan oncology hospital cannot monitor BSC performance indicators while simultaneously managing clinical operations. When a critical indicator degrades — a patient consultation delay exceeding 14 days, a budget shortfall — the information sits in a spreadsheet until the monthly meeting.
 
 **In oncology, every day of delay has direct clinical consequences.**
 
